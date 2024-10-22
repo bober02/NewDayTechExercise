@@ -1,5 +1,5 @@
+package org.newday;
 
-import org.example.DiamondDrawer;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

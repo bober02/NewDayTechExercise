@@ -1,6 +1,6 @@
-package org.example;
+package org.newday;
 
-// we coudl hide this behind interface but it seems too much of an overkill for a simple task like this
+// we could hide this behind interface, but it seems too much of an overkill for a simple task like this
 public class DiamondDrawer {
 
     public DiamondDrawer() {
