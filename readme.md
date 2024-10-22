@@ -2,4 +2,4 @@ This code essentially solves the diamond building by progressing top to middle a
 
 I did not use any interfaces/DI, it seemed too much of an overkill for a simple task like this.
 
-the test coverage should be sufficient for most cases. I followed underscoreprincible to make sure the diamond structure was very visible.
+the test coverage should be sufficient for most cases. I followed underscore principle as outlined in the spec, to make sure the diamond structure was very visible.
